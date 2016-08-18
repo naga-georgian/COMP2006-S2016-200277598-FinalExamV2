@@ -7,8 +7,7 @@ using COMP2006_S2016_FinalExamV2.Models;
 using System.Data.Entity;
 using System.Threading.Tasks;
 //Naga Rimmalapudi 200277598    
-// ListPagesController
-//Final Exam
+// Controller for all list pages: ListPagesController
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
     public class ListPagesController : Controller
