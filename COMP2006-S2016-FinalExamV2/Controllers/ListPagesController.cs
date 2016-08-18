@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using COMP2006_S2016_FinalExamV2.Models;
 using System.Data.Entity;
 using System.Threading.Tasks;
-//Anthony Gobin
+//Naga Rimmalapudi 200277598    
 // ListPagesController
 //Final Exam
 namespace COMP2006_S2016_FinalExamV2.Controllers
